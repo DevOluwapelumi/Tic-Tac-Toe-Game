@@ -28,6 +28,8 @@ If all cells are filled and no player has formed a winning line, the game ends i
 Strategy:
 Tic-Tac-Toe is a relatively simple game with a known optimal strategy. The first player (X) can always force a win or a draw with perfect play. The second player (O) can win if the first player makes a mistake.
 
+
+Tic-Tac-Toe, also known as noughts and crosses, is a classic two-player strategy game played on a 3x3 grid, where players take turns marking empty squares with either X or O in an attempt to form a horizontal, vertical, or diagonal line of their respective symbols and win the game, while also strategically blocking their opponent from achieving the same goal.
 Game Completion:
 Once a player wins or the game ends in a tie, the outcome is determined, and the game concludes.
 
