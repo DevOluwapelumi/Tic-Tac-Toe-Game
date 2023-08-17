@@ -2,7 +2,7 @@
 I created this game with HTML, CSS, and JAVASCRIPT...
 
 
-A Tic-Tac-Toe game is a classic two-player strategy game played on a 3x3 grid. The objective of the game is to be the first player to form a horizontal, vertical, or diagonal line of three of their own symbols, which are typical "X" and "O". Here's a description of how the game is played:
+A Tic-Tac-Toe game is a classic two-player strategy game played on a 3x3 grid. The objective of the game is to be the first player to form a horizontal, vertical, or diagonal line of three of their symbols, which are typically "X" and "O". Here's a description of how the game is played:
 
 Game Setup:
 
